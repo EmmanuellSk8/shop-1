@@ -627,11 +627,7 @@ nav .item-menu:hover {
   
 }
 
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-}
-
+ 
 .contact-section h2 {
     font-size: 2.5rem;
     margin-bottom: 20px;
@@ -760,3 +756,8 @@ nav .item-menu:hover {
     color: #777777;
   }
   
+  .video{
+    aspect-ratio: 1/1;
+    width: 100%;
+    
+  }
